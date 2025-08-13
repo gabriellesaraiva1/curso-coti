@@ -1,12 +1,14 @@
-# React + Vite
+📚 Curso Coti – Projeto em React
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este repositório contém um projeto desenvolvido durante o curso da Coti Informática, utilizando React.js para criação de interfaces modernas e responsivas.
+O objetivo é aplicar conceitos aprendidos em aula, desde a configuração do ambiente até o desenvolvimento de componentes e integração com APIs.
 
-Currently, two official plugins are available:
+🚀 Tecnologias utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+React.js – Biblioteca para construção de interfaces.
 
-## Expanding the ESLint configuration
+JavaScript (ES6+) – Linguagem principal do projeto.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Vite – Ferramenta para build e desenvolvimento rápido.
+
+CSS Modules / TailwindCSS  – Estilização dos componentes.
